@@ -13,7 +13,8 @@
 
 3. To run the script, open a terminal or command line and navigate to the directory where the files are located. Then execute the following command:
 
-  python3 hexedit.py
+   ```
+     python3 hexedit.py
 
 ## Notes
 
