@@ -1,6 +1,13 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+# A simple script to modify hexadecimal values in files.
+# Author: alejandrodf95 / https://github.com/alejandrodf95
+# Date: 2024-8-17
+
 import os
 
-FILE_NAME = "ds.exe"
+FILE_NAME = "file.exe"
 ORIGINAL_STRING = "750541c6463a11488d8d"
 NEW_STRING = "eb0541c6463a11488d8d"
 
