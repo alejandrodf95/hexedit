@@ -16,6 +16,15 @@
    ```
      python3 hexedit.py
 
+# Executables:
+
+**dsHexEdit.exe**
+
+Works to replace the string `75 05 41 C6 46 3A 11 48 8D 8D 8D` with `EB 05 41 C6 46 3A 11 48 8D 8D 8D` to allow the transfer of savegames between Death Stranding and Death Stranding Director's Cut between different accounts.
+
+More information: [Full guide to transferring save data between Death Stranding and Death Stranding Director's Cut](https://www.reddit.com/r/DeathStranding/comments/14uxzax/full_guide_to_transferring_save_data_between/)
+
+
 ## Notes
 
 - **Ensure you have the necessary permissions** to modify the `.exe` file.
