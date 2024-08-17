@@ -15,8 +15,6 @@
 
   python3 hexedit.py
 
-   ## Notes
-   
 ## Notes
 
 - **Ensure you have the necessary permissions** to modify the `.exe` file.
