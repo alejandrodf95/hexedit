@@ -36,7 +36,7 @@ def main():
             edit_exe(FILE_NAME)
             print(f"The file '{FILE_NAME}' has been modified.")
         else:
-            raise ValueError(
+            print(
                 f"Error: The file '{FILE_NAME}' is not found in the directory."
             )
     except ValueError as ve:
